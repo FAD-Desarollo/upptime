@@ -38,5 +38,7 @@ status-website:
   theme: dark
 #   favicon: https://app.aden.org/favicon.png
   faviconSvg: https://app.aden.org/assets/logo-aden.svg
+  i18n:
+footer: ADEN
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
