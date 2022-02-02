@@ -11,6 +11,8 @@ sites:
     url: https://ocrm.aden.org/web
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: SIS Api
+    url: https://sisapi.aden.org/api/v1/acropolis/test
     
 assignees:
   - maticorv
