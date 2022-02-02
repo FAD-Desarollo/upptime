@@ -15,6 +15,8 @@ sites:
     url: https://sisapi.aden.org/api/v1/acropolis/test
   - name: SIS
     url: https://www.aden.org/sis/login
+  - name: FusionAuth
+    url: https://fa.aden.org/
     
 assignees:
   - maticorv
