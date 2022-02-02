@@ -35,7 +35,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: dark
+  theme: night
 #   favicon: https://app.aden.org/favicon.png
   faviconSvg: https://app.aden.org/assets/logo-aden.svg
   i18n:
