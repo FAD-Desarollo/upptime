@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 475,
-    "timeWeek": 414,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "time": 362,
+    "timeDay": 395,
+    "timeWeek": 362,
+    "timeMonth": 362,
+    "timeYear": 362,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 161,
+    "time": 163,
     "timeDay": 172,
-    "timeWeek": 161,
-    "timeMonth": 161,
-    "timeYear": 161,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2862,
-    "timeDay": 2760,
-    "timeWeek": 2862,
-    "timeMonth": 2862,
-    "timeYear": 2862,
+    "time": 3116,
+    "timeDay": 3103,
+    "timeWeek": 3116,
+    "timeMonth": 3116,
+    "timeYear": 3116,
     "dailyMinutesDown": {}
   },
   {
@@ -69,6 +69,24 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "SIS Api",
+    "url": "https://sisapi.aden.org/api/v1/acropolis/test",
+    "icon": "https://favicons.githubusercontent.com/sisapi.aden.org",
+    "slug": "sis-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 736,
+    "timeDay": 736,
+    "timeWeek": 736,
+    "timeMonth": 736,
+    "timeYear": 736,
     "dailyMinutesDown": {}
   }
 ]
