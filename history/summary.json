@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 395,
-    "timeWeek": 362,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "time": 327,
+    "timeDay": 347,
+    "timeWeek": 327,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 172,
-    "timeWeek": 163,
-    "timeMonth": 163,
-    "timeYear": 163,
+    "time": 159,
+    "timeDay": 165,
+    "timeWeek": 159,
+    "timeMonth": 159,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3116,
-    "timeDay": 3103,
-    "timeWeek": 3116,
-    "timeMonth": 3116,
-    "timeYear": 3116,
+    "time": 3092,
+    "timeDay": 3076,
+    "timeWeek": 3092,
+    "timeMonth": 3092,
+    "timeYear": 3092,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 736,
-    "timeWeek": 736,
-    "timeMonth": 736,
-    "timeYear": 736,
+    "time": 753,
+    "timeDay": 753,
+    "timeWeek": 753,
+    "timeMonth": 753,
+    "timeYear": 753,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "SIS",
+    "url": "https://www.aden.org/sis",
+    "icon": "https://favicons.githubusercontent.com/www.aden.org",
+    "slug": "sis",
+    "status": "down",
+    "uptime": "85.27%",
+    "uptimeDay": "85.27%",
+    "uptimeWeek": "85.27%",
+    "uptimeMonth": "85.27%",
+    "uptimeYear": "85.27%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   }
 ]
