@@ -17,6 +17,10 @@ sites:
     url: https://www.aden.org/sis/login
   - name: FusionAuth
     url: https://fa.aden.org/
+  - name: Repositorio
+    url: https://repositorio.aden.org/
+  - name: Repositorio-api
+    url: https://repositorio-api.aden.org/
     
 assignees:
   - maticorv
