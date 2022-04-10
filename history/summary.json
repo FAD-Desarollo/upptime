@@ -124,18 +124,20 @@
     "url": "https://fa.aden.org/",
     "icon": "https://favicons.githubusercontent.com/fa.aden.org",
     "slug": "fusion-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 188,
-    "timeWeek": 174,
-    "timeMonth": 271,
-    "timeYear": 282,
-    "dailyMinutesDown": {}
+    "time": 416,
+    "timeDay": 5312,
+    "timeWeek": 1457,
+    "timeMonth": 588,
+    "timeYear": 416,
+    "dailyMinutesDown": {
+      "2022-04-10": 0
+    }
   },
   {
     "name": "Repositorio",
