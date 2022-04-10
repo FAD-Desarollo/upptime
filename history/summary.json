@@ -124,19 +124,19 @@
     "url": "https://fa.aden.org/",
     "icon": "https://favicons.githubusercontent.com/fa.aden.org",
     "slug": "fusion-auth",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 5312,
-    "timeWeek": 1457,
-    "timeMonth": 588,
-    "timeYear": 416,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 412,
+    "timeDay": 3592,
+    "timeWeek": 1312,
+    "timeMonth": 575,
+    "timeYear": 412,
     "dailyMinutesDown": {
-      "2022-04-10": 0
+      "2022-04-10": 21
     }
   },
   {
