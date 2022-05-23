@@ -82,10 +82,10 @@
     "url": "https://sisapi.aden.org/api/v1/acropolis/test",
     "icon": "https://favicons.githubusercontent.com/sisapi.aden.org",
     "slug": "sis-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 741,
@@ -94,6 +94,7 @@
     "timeMonth": 841,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2022-05-23": 1,
       "2022-03-21": 19,
       "2022-02-24": 22,
       "2022-02-16": 63
