@@ -106,9 +106,9 @@
     "url": "https://www.aden.org/sis/login",
     "icon": "https://favicons.githubusercontent.com/www.aden.org",
     "slug": "sis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -118,6 +118,7 @@
     "timeMonth": 720,
     "timeYear": 687,
     "dailyMinutesDown": {
+      "2022-06-14": 0,
       "2022-02-23": 32,
       "2022-02-02": 162
     }
