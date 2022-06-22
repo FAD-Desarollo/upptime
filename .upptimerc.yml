@@ -17,7 +17,7 @@ sites:
     url: https://www.aden.org/sis/login
   - name: SIS sede 1510
     url: https://www.aden.org/sis/sede/1510
-        expectedStatusCodes:
+    expectedStatusCodes:
       - 404
   - name: FusionAuth
     url: https://fa.aden.org/
