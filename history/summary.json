@@ -46,9 +46,9 @@
     "url": "https://ocrm.aden.org/web",
     "icon": "https://favicons.githubusercontent.com/ocrm.aden.org",
     "slug": "crm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
@@ -58,6 +58,7 @@
     "timeMonth": 4223,
     "timeYear": 3825,
     "dailyMinutesDown": {
+      "2022-06-24": 0,
       "2022-06-21": 38,
       "2022-03-30": 16,
       "2022-02-24": 23
