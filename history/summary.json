@@ -261,9 +261,9 @@
     "url": "https://aden.ucontactcloud.com/",
     "icon": "https://icons.duckduckgo.com/ip3/aden.ucontactcloud.com.ico",
     "slug": "ucontact",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -272,6 +272,8 @@
     "timeWeek": 264,
     "timeMonth": 263,
     "timeYear": 240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
