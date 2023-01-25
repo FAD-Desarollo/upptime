@@ -261,19 +261,19 @@
     "url": "https://aden.ucontactcloud.com/",
     "icon": "https://icons.duckduckgo.com/ip3/aden.ucontactcloud.com.ico",
     "slug": "ucontact",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 292,
-    "timeWeek": 259,
-    "timeMonth": 262,
+    "timeDay": 251,
+    "timeWeek": 249,
+    "timeMonth": 259,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 12
     }
   }
 ]
