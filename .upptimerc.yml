@@ -27,6 +27,10 @@ sites:
     url: https://repositorio-api.aden.org/docs
   - name: Ucontact
     url: https://aden.ucontactcloud.com/
+  - name: Adenuniversity
+    url: https://adenuniversity.edu.pa/
+  - name: Adenuniversity Precios
+    url: https://adenuniversity.edu.pa/precios-panama/
     
 assignees:
   - maticorv
