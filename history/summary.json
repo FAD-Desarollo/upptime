@@ -277,19 +277,19 @@
     "url": "https://adenuniversity.edu.pa/",
     "icon": "https://icons.duckduckgo.com/ip3/adenuniversity.edu.pa.ico",
     "slug": "adenuniversity",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 788,
-    "timeDay": 627,
-    "timeWeek": 788,
-    "timeMonth": 788,
-    "timeYear": 788,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 899,
+    "timeDay": 1098,
+    "timeWeek": 899,
+    "timeMonth": 899,
+    "timeYear": 899,
     "dailyMinutesDown": {
-      "2023-06-20": 2
+      "2023-06-20": 9
     }
   },
   {
@@ -297,19 +297,19 @@
     "url": "https://adenuniversity.edu.pa/precios-panama/",
     "icon": "https://icons.duckduckgo.com/ip3/adenuniversity.edu.pa.ico",
     "slug": "adenuniversity-precios",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 765,
-    "timeDay": 691,
-    "timeWeek": 765,
-    "timeMonth": 765,
-    "timeYear": 765,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 817,
+    "timeDay": 912,
+    "timeWeek": 817,
+    "timeMonth": 817,
+    "timeYear": 817,
     "dailyMinutesDown": {
-      "2023-06-20": 1
+      "2023-06-20": 8
     }
   }
 ]
