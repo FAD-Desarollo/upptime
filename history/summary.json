@@ -9,15 +9,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1172,
-    "timeDay": 898,
-    "timeWeek": 393,
-    "timeMonth": 454,
-    "timeYear": 1205,
+    "uptimeYear": "99.99%",
+    "time": 1173,
+    "timeDay": 705,
+    "timeWeek": 382,
+    "timeMonth": 469,
+    "timeYear": 1211,
     "dailyMinutesDown": {
-      "2022-08-04": 19,
-      "2022-07-02": 57
+      "2022-08-04": 19
     }
   },
   {
@@ -30,15 +29,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 269,
-    "timeDay": 234,
-    "timeWeek": 200,
-    "timeMonth": 215,
+    "timeDay": 98,
+    "timeWeek": 201,
+    "timeMonth": 209,
     "timeYear": 266,
-    "dailyMinutesDown": {
-      "2022-07-02": 57
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CRM",
@@ -50,12 +47,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.90%",
-    "time": 4425,
-    "timeDay": 6520,
-    "timeWeek": 5693,
-    "timeMonth": 5497,
-    "timeYear": 4721,
+    "uptimeYear": "99.91%",
+    "time": 4430,
+    "timeDay": 6100,
+    "timeWeek": 5647,
+    "timeMonth": 5594,
+    "timeYear": 4740,
     "dailyMinutesDown": {
       "2023-06-06": 22,
       "2023-04-17": 21,
@@ -68,8 +65,7 @@
       "2022-09-28": 58,
       "2022-09-14": 20,
       "2022-09-02": 16,
-      "2022-07-13": 16,
-      "2022-07-02": 57
+      "2022-07-13": 16
     }
   },
   {
@@ -100,12 +96,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 753,
-    "timeDay": 781,
-    "timeWeek": 645,
-    "timeMonth": 663,
-    "timeYear": 759,
+    "timeDay": 736,
+    "timeWeek": 629,
+    "timeMonth": 664,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2023-04-17": 20,
       "2023-03-21": 58,
@@ -113,8 +109,7 @@
       "2022-12-13": 29,
       "2022-11-06": 24,
       "2022-09-28": 57,
-      "2022-08-25": 53,
-      "2022-07-02": 57
+      "2022-08-25": 53
     }
   },
   {
@@ -128,14 +123,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 747,
-    "timeDay": 804,
-    "timeWeek": 721,
-    "timeMonth": 685,
-    "timeYear": 769,
+    "time": 748,
+    "timeDay": 595,
+    "timeWeek": 692,
+    "timeMonth": 696,
+    "timeYear": 770,
     "dailyMinutesDown": {
-      "2022-12-13": 28,
-      "2022-07-02": 57
+      "2022-12-13": 28
     }
   },
   {
@@ -150,13 +144,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 551,
-    "timeDay": 769,
-    "timeWeek": 625,
-    "timeMonth": 614,
-    "timeYear": 557,
+    "timeDay": 578,
+    "timeWeek": 598,
+    "timeMonth": 612,
+    "timeYear": 559,
     "dailyMinutesDown": {
-      "2022-12-13": 26,
-      "2022-07-02": 57
+      "2022-12-13": 26
     }
   },
   {
@@ -167,17 +160,16 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 410,
-    "timeDay": 400,
-    "timeWeek": 1422,
-    "timeMonth": 595,
-    "timeYear": 409,
+    "timeDay": 262,
+    "timeWeek": 302,
+    "timeMonth": 594,
+    "timeYear": 410,
     "dailyMinutesDown": {
-      "2023-06-24": 28,
-      "2022-07-02": 56
+      "2023-06-24": 28
     }
   },
   {
@@ -186,22 +178,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/repositorio.aden.org.ico",
     "slug": "repositorio",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 1463,
-    "timeDay": 1812,
-    "timeWeek": 1679,
-    "timeMonth": 1342,
-    "timeYear": 1429,
+    "uptimeYear": "99.97%",
+    "time": 1462,
+    "timeDay": 1638,
+    "timeWeek": 1408,
+    "timeMonth": 1368,
+    "timeYear": 1432,
     "dailyMinutesDown": {
       "2023-04-05": 15,
       "2023-03-21": 57,
       "2022-09-22": 25,
-      "2022-07-15": 23,
-      "2022-07-02": 56
+      "2022-07-15": 23
     }
   },
   {
@@ -214,15 +205,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 765,
-    "timeDay": 780,
-    "timeWeek": 666,
-    "timeMonth": 701,
-    "timeYear": 772,
+    "timeDay": 682,
+    "timeWeek": 655,
+    "timeMonth": 698,
+    "timeYear": 770,
     "dailyMinutesDown": {
-      "2023-03-21": 63,
-      "2022-07-02": 56
+      "2023-03-21": 63
     }
   },
   {
@@ -236,10 +226,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 237,
-    "timeDay": 311,
-    "timeWeek": 258,
-    "timeMonth": 236,
+    "time": 236,
+    "timeDay": 178,
+    "timeWeek": 239,
+    "timeMonth": 237,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2023-06-16": 24,
@@ -253,16 +243,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/adenuniversity.edu.pa.ico",
     "slug": "adenuniversity",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 3620,
-    "timeDay": 935,
-    "timeWeek": 1445,
-    "timeMonth": 3620,
-    "timeYear": 3620,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 3496,
+    "timeDay": 645,
+    "timeWeek": 1146,
+    "timeMonth": 3496,
+    "timeYear": 3496,
     "dailyMinutesDown": {
       "2023-06-21": 43
     }
@@ -273,16 +263,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/adenuniversity.edu.pa.ico",
     "slug": "adenuniversity-precios",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 1426,
-    "timeDay": 829,
-    "timeWeek": 748,
-    "timeMonth": 1426,
-    "timeYear": 1426,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1393,
+    "timeDay": 689,
+    "timeWeek": 744,
+    "timeMonth": 1393,
+    "timeYear": 1393,
     "dailyMinutesDown": {
       "2023-06-21": 43
     }
