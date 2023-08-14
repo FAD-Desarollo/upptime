@@ -31,6 +31,8 @@ sites:
     url: https://adenuniversity.edu.pa/
   - name: Adenuniversity Precios
     url: https://adenuniversity.edu.pa/precios-panama/
+  - name: Adenuniversity Mkt Landings
+    url: https://mkt-landings.adenuniversity.edu.pa/
     
 assignees:
   - maticorv
