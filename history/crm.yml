@@ -1,7 +1,7 @@
 url: https://ocrm.aden.org/web
-status: up
-code: 200
-responseTime: 4447
-lastUpdated: 2023-09-21T23:08:14.708Z
+status: down
+code: 502
+responseTime: 203
+lastUpdated: 2023-09-21T23:29:24.893Z
 startTime: 2022-02-01T13:37:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
