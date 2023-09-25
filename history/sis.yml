@@ -1,7 +1,7 @@
 url: https://www.aden.org/sis/login
-status: down
-code: 521
-responseTime: 174
-lastUpdated: 2023-09-25T20:18:42.406Z
+status: up
+code: 200
+responseTime: 671
+lastUpdated: 2023-09-25T20:30:27.764Z
 startTime: 2022-02-02T15:53:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
