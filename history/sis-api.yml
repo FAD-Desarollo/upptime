@@ -1,7 +1,7 @@
 url: https://sisapi.aden.org/api/v1/acropolis/test
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-17T19:25:36.575Z
+status: up
+code: 200
+responseTime: 686
+lastUpdated: 2023-11-17T19:45:06.889Z
 startTime: 2022-02-02T15:13:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
