@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 832,
-    "timeDay": 169,
-    "timeWeek": 454,
-    "timeMonth": 486,
+    "timeDay": 95,
+    "timeWeek": 347,
+    "timeMonth": 466,
     "timeYear": 428,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 249,
-    "timeDay": 288,
-    "timeWeek": 242,
-    "timeMonth": 225,
-    "timeYear": 223,
+    "time": 250,
+    "timeDay": 264,
+    "timeWeek": 243,
+    "timeMonth": 224,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2023-10-30": 30
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.91%",
-    "time": 5031,
-    "timeDay": 5006,
-    "timeWeek": 5741,
-    "timeMonth": 6209,
-    "timeYear": 5261,
+    "time": 5036,
+    "timeDay": 4892,
+    "timeWeek": 6029,
+    "timeMonth": 6226,
+    "timeYear": 5267,
     "dailyMinutesDown": {
       "2023-12-12": 59,
       "2023-12-05": 37,
@@ -104,9 +104,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.89%",
-    "time": 789,
-    "timeDay": 185,
-    "timeWeek": 626,
+    "time": 788,
+    "timeDay": 683,
+    "timeWeek": 629,
     "timeMonth": 714,
     "timeYear": 754,
     "dailyMinutesDown": {
@@ -124,8 +124,7 @@
       "2023-07-04": 17,
       "2023-04-17": 20,
       "2023-03-21": 58,
-      "2023-02-20": 18,
-      "2022-12-13": 29
+      "2023-02-20": 18
     }
   },
   {
@@ -140,13 +139,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 712,
-    "timeDay": 592,
-    "timeWeek": 628,
-    "timeMonth": 658,
+    "timeDay": 631,
+    "timeWeek": 636,
+    "timeMonth": 659,
     "timeYear": 665,
-    "dailyMinutesDown": {
-      "2022-12-13": 28
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SIS sede 1510",
@@ -160,13 +157,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 569,
-    "timeDay": 559,
-    "timeWeek": 535,
-    "timeMonth": 616,
-    "timeYear": 563,
-    "dailyMinutesDown": {
-      "2022-12-13": 26
-    }
+    "timeDay": 572,
+    "timeWeek": 593,
+    "timeMonth": 617,
+    "timeYear": 562,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FusionAuth",
@@ -180,9 +175,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 381,
-    "timeDay": 242,
-    "timeWeek": 223,
-    "timeMonth": 284,
+    "timeDay": 340,
+    "timeWeek": 244,
+    "timeMonth": 289,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2023-10-19": 55,
@@ -201,10 +196,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1380,
-    "timeDay": 795,
-    "timeWeek": 1388,
-    "timeMonth": 1528,
-    "timeYear": 1358,
+    "timeDay": 1575,
+    "timeWeek": 1409,
+    "timeMonth": 1527,
+    "timeYear": 1359,
     "dailyMinutesDown": {
       "2023-04-05": 15,
       "2023-03-21": 57
@@ -221,10 +216,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 757,
-    "timeDay": 548,
-    "timeWeek": 683,
-    "timeMonth": 684,
+    "time": 756,
+    "timeDay": 564,
+    "timeWeek": 642,
+    "timeMonth": 679,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2023-03-21": 63
@@ -242,9 +237,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 235,
-    "timeDay": 132,
-    "timeWeek": 230,
-    "timeMonth": 224,
+    "timeDay": 166,
+    "timeWeek": 225,
+    "timeMonth": 223,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2023-06-16": 24,
@@ -263,11 +258,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1479,
-    "timeDay": 758,
-    "timeWeek": 881,
-    "timeMonth": 1261,
-    "timeYear": 1479,
+    "time": 1475,
+    "timeDay": 774,
+    "timeWeek": 792,
+    "timeMonth": 1263,
+    "timeYear": 1475,
     "dailyMinutesDown": {
       "2023-09-28": 17,
       "2023-06-21": 43
@@ -279,18 +274,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/adenuniversity.edu.pa.ico",
     "slug": "adenuniversity-precios",
     "status": "down",
-    "uptime": "38.85%",
+    "uptime": "38.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "38.85%",
+    "uptimeYear": "38.78%",
     "time": 1023,
-    "timeDay": 1034,
-    "timeWeek": 1061,
-    "timeMonth": 1091,
+    "timeDay": 996,
+    "timeWeek": 1065,
+    "timeMonth": 1077,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2023-12-12": 986,
+      "2023-12-13": 42,
+      "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
@@ -415,11 +411,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1484,
-    "timeDay": 1974,
-    "timeWeek": 1684,
-    "timeMonth": 1604,
-    "timeYear": 1484,
+    "time": 1483,
+    "timeDay": 1421,
+    "timeWeek": 1629,
+    "timeMonth": 1606,
+    "timeYear": 1483,
     "dailyMinutesDown": {
       "2023-10-23": 40
     }
