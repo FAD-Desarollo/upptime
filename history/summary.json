@@ -4,19 +4,19 @@
     "url": "https://www.aden.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.aden.org.ico",
     "slug": "aden",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 256,
-    "timeWeek": 759,
-    "timeMonth": 589,
+    "time": 571,
+    "timeDay": 493,
+    "timeWeek": 756,
+    "timeMonth": 593,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2024-02-21": 0
+      "2024-02-21": 10
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 5364,
     "dailyMinutesDown": {
-      "2024-02-21": 865,
+      "2024-02-21": 875,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -354,7 +354,7 @@
     "timeMonth": 1228,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2024-02-21": 866,
+      "2024-02-21": 875,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
