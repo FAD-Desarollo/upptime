@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 5478,
     "dailyMinutesDown": {
-      "2024-05-10": 802,
+      "2024-05-10": 812,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
@@ -369,19 +369,19 @@
     "url": "https://repositorio-api.aden.org/docs",
     "icon": "https://icons.duckduckgo.com/ip3/repositorio-api.aden.org.ico",
     "slug": "repositorio-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 767,
-    "timeDay": 6794,
-    "timeWeek": 2226,
-    "timeMonth": 1096,
+    "timeDay": 4766,
+    "timeWeek": 2058,
+    "timeMonth": 1084,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2024-05-10": 0
+      "2024-05-10": 10
     }
   },
   {
@@ -442,7 +442,7 @@
     "timeMonth": 1226,
     "timeYear": 1137,
     "dailyMinutesDown": {
-      "2024-05-10": 802,
+      "2024-05-10": 812,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
