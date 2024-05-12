@@ -51,14 +51,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.56%",
+    "uptimeYear": "59.55%",
     "time": 5253,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 5482,
     "dailyMinutesDown": {
-      "2024-05-12": 594,
+      "2024-05-12": 640,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
@@ -344,11 +344,11 @@
     "url": "https://repositorio.aden.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repositorio.aden.org.ico",
     "slug": "repositorio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "94.11%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "82.84%",
+    "uptimeDay": "93.99%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "82.83%",
     "uptimeYear": "98.56%",
     "time": 1413,
     "timeDay": 9323,
@@ -356,7 +356,7 @@
     "timeMonth": 1891,
     "timeYear": 1449,
     "dailyMinutesDown": {
-      "2024-05-12": 85,
+      "2024-05-12": 87,
       "2024-04-29": 989,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -372,9 +372,9 @@
     "url": "https://repositorio-api.aden.org/docs",
     "icon": "https://icons.duckduckgo.com/ip3/repositorio-api.aden.org.ico",
     "slug": "repositorio-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -383,7 +383,9 @@
     "timeWeek": 2069,
     "timeMonth": 1084,
     "timeYear": 781,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-12": 0
+    }
   },
   {
     "name": "Ucontact",
@@ -443,7 +445,7 @@
     "timeMonth": 1224,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2024-05-12": 594,
+      "2024-05-12": 641,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
