@@ -47,9 +47,7 @@
     "timeWeek": 261,
     "timeMonth": 262,
     "timeYear": 253,
-    "dailyMinutesDown": {
-      "2023-10-30": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CRM",
@@ -61,14 +59,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "13.15%",
+    "uptimeYear": "13.14%",
     "time": 5800,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 6761,
     "dailyMinutesDown": {
-      "2024-10-28": 1434,
+      "2024-10-29": 44,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -629,7 +628,8 @@
     "timeMonth": 1591,
     "timeYear": 1357,
     "dailyMinutesDown": {
-      "2024-10-28": 1434,
+      "2024-10-29": 44,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -992,8 +992,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
-      "2023-10-31": 1440,
-      "2023-10-30": 1440
+      "2023-10-31": 1440
     }
   },
   {
@@ -1001,19 +1000,20 @@
     "url": "https://mkt-landings.adenuniversity.edu.pa/",
     "icon": "https://icons.duckduckgo.com/ip3/mkt-landings.adenuniversity.edu.pa.ico",
     "slug": "adenuniversity-mkt-landings",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.42%",
-    "time": 1764,
-    "timeDay": 3704,
-    "timeWeek": 8404,
-    "timeMonth": 3242,
-    "timeYear": 1845,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.41%",
+    "time": 1820,
+    "timeDay": 15352,
+    "timeWeek": 10264,
+    "timeMonth": 3962,
+    "timeYear": 1912,
     "dailyMinutesDown": {
-      "2024-10-28": 1,
+      "2024-10-29": 44,
+      "2024-10-28": 6,
       "2024-07-29": 1013,
       "2024-07-28": 1440,
       "2024-07-27": 395,
