@@ -56,7 +56,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ocrm.aden.org.ico",
     "slug": "crm",
     "status": "down",
-    "uptime": "67.78%",
+    "uptime": "67.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -67,7 +67,7 @@
     "timeMonth": 0,
     "timeYear": 7135,
     "dailyMinutesDown": {
-      "2024-11-05": 46,
+      "2024-11-05": 53,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
@@ -637,7 +637,7 @@
     "timeMonth": 1951,
     "timeYear": 1391,
     "dailyMinutesDown": {
-      "2024-11-05": 46,
+      "2024-11-05": 53,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
