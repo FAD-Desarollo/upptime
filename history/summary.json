@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
-    "time": 420,
-    "timeDay": 204,
-    "timeWeek": 356,
-    "timeMonth": 355,
+    "time": 419,
+    "timeDay": 246,
+    "timeWeek": 355,
+    "timeMonth": 354,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2024-11-04": 18,
@@ -41,9 +41,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 238,
-    "timeWeek": 330,
-    "timeMonth": 289,
+    "timeDay": 230,
+    "timeWeek": 279,
+    "timeMonth": 292,
     "timeYear": 261,
     "dailyMinutesDown": {}
   },
@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ocrm.aden.org.ico",
     "slug": "crm",
     "status": "down",
-    "uptime": "56.08%",
+    "uptime": "56.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 27766,
     "dailyMinutesDown": {
-      "2025-06-03": 64,
+      "2025-06-04": 64,
+      "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
@@ -427,8 +428,7 @@
       "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
-      "2024-06-05": 1440,
-      "2024-06-04": 1440
+      "2024-06-05": 1440
     }
   },
   {
@@ -460,11 +460,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 998,
-    "timeDay": 805,
-    "timeWeek": 706,
-    "timeMonth": 675,
-    "timeYear": 984,
+    "time": 999,
+    "timeDay": 971,
+    "timeWeek": 738,
+    "timeMonth": 686,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2025-02-14": 35,
       "2024-12-27": 22,
@@ -488,9 +488,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 689,
-    "timeDay": 948,
-    "timeWeek": 727,
-    "timeMonth": 716,
+    "timeDay": 830,
+    "timeWeek": 750,
+    "timeMonth": 723,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2025-02-14": 34
@@ -508,9 +508,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 622,
-    "timeDay": 861,
-    "timeWeek": 594,
-    "timeMonth": 636,
+    "timeDay": 855,
+    "timeWeek": 636,
+    "timeMonth": 645,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2025-02-14": 32
@@ -528,10 +528,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 435,
-    "timeWeek": 298,
-    "timeMonth": 325,
-    "timeYear": 319,
+    "timeDay": 464,
+    "timeWeek": 317,
+    "timeMonth": 332,
+    "timeYear": 320,
     "dailyMinutesDown": {}
   },
   {
@@ -545,11 +545,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.96%",
-    "time": 1447,
-    "timeDay": 1499,
-    "timeWeek": 1444,
-    "timeMonth": 1326,
-    "timeYear": 1381,
+    "time": 1449,
+    "timeDay": 1738,
+    "timeWeek": 1434,
+    "timeMonth": 1325,
+    "timeYear": 1383,
     "dailyMinutesDown": {
       "2025-05-25": 47,
       "2025-05-08": 23,
@@ -572,10 +572,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 532,
-    "timeDay": 276,
-    "timeWeek": 298,
-    "timeMonth": 331,
-    "timeYear": 399,
+    "timeDay": 283,
+    "timeWeek": 286,
+    "timeMonth": 327,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2025-04-23": 15,
       "2025-04-21": 20,
@@ -603,10 +603,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 240,
-    "timeDay": 348,
-    "timeWeek": 278,
-    "timeMonth": 275,
-    "timeYear": 249,
+    "timeDay": 304,
+    "timeWeek": 286,
+    "timeMonth": 270,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2025-02-17": 42,
       "2024-08-08": 106
@@ -622,12 +622,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.98%",
-    "time": 3362,
-    "timeDay": 2026,
-    "timeWeek": 1792,
-    "timeMonth": 1887,
-    "timeYear": 3957,
+    "uptimeYear": "97.99%",
+    "time": 3364,
+    "timeDay": 1925,
+    "timeWeek": 1813,
+    "timeMonth": 1891,
+    "timeYear": 3959,
     "dailyMinutesDown": {
       "2025-04-28": 19,
       "2025-04-26": 39,
@@ -651,8 +651,7 @@
       "2024-11-04": 138,
       "2024-10-31": 68,
       "2024-10-27": 19,
-      "2024-10-25": 19,
-      "2024-06-04": 79
+      "2024-10-25": 19
     }
   },
   {
@@ -661,18 +660,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/adenuniversity.edu.pa.ico",
     "slug": "adenuniversity-precios",
     "status": "down",
-    "uptime": "9.74%",
+    "uptime": "9.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1448,
-    "timeDay": 845,
-    "timeWeek": 756,
-    "timeMonth": 798,
-    "timeYear": 1525,
+    "time": 1436,
+    "timeDay": 847,
+    "timeWeek": 776,
+    "timeMonth": 796,
+    "timeYear": 1523,
     "dailyMinutesDown": {
-      "2025-06-03": 65,
+      "2025-06-04": 64,
+      "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
@@ -1035,8 +1035,7 @@
       "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
-      "2024-06-05": 1440,
-      "2024-06-04": 1440
+      "2024-06-05": 1440
     }
   },
   {
@@ -1045,16 +1044,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mkt-landings.adenuniversity.edu.pa.ico",
     "slug": "adenuniversity-mkt-landings",
     "status": "up",
-    "uptime": "98.54%",
+    "uptime": "98.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.41%",
     "time": 3761,
-    "timeDay": 2346,
-    "timeWeek": 2072,
-    "timeMonth": 2123,
-    "timeYear": 4359,
+    "timeDay": 2383,
+    "timeWeek": 2131,
+    "timeMonth": 2129,
+    "timeYear": 4361,
     "dailyMinutesDown": {
       "2025-04-28": 16,
       "2025-04-21": 1014,
@@ -1081,8 +1080,7 @@
       "2024-10-28": 6,
       "2024-07-29": 1013,
       "2024-07-28": 1440,
-      "2024-07-27": 395,
-      "2024-06-04": 40
+      "2024-07-27": 395
     }
   }
 ]
