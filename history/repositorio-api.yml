@@ -1,7 +1,7 @@
 url: https://repositorio-api.aden.org/docs
-status: up
-code: 200
-responseTime: 222
-lastUpdated: 2025-06-07T23:13:09.269Z
+status: down
+code: 502
+responseTime: 258
+lastUpdated: 2025-06-08T05:18:43.389Z
 startTime: 2022-02-03T13:04:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
