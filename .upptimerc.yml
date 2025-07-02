@@ -7,10 +7,12 @@ sites:
     url: https://www.aden.org
   - name: Acropolis
     url: https://app.aden.org/
-  - name: CRM
+  - name: CRM Old
     url: https://ocrm.aden.org/web
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: CRM New
+    url: https://crm.internal.aden.org/web
+  # - name: Test Broken Site
+  #   url: https://thissitedoesnotexist.koj.co
   - name: SIS Api
     url: https://sisapi.aden.org/api/v1/acropolis/test
   - name: SIS
