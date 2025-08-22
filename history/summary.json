@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-22": 61,
+      "2025-08-22": 914,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
@@ -116,18 +116,20 @@
     "url": "https://crm.internal.aden.org/web",
     "icon": "https://icons.duckduckgo.com/ip3/crm.internal.aden.org.ico",
     "slug": "crm-new",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 921,
-    "timeDay": 1338,
-    "timeWeek": 1028,
-    "timeMonth": 910,
-    "timeYear": 921,
-    "dailyMinutesDown": {}
+    "time": 919,
+    "timeDay": 1079,
+    "timeWeek": 1002,
+    "timeMonth": 907,
+    "timeYear": 919,
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   },
   {
     "name": "SIS Api",
@@ -339,7 +341,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adenuniversity.edu.pa.ico",
     "slug": "adenuniversity-precios",
     "status": "down",
-    "uptime": "8.76%",
+    "uptime": "8.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -350,7 +352,7 @@
     "timeMonth": 963,
     "timeYear": 1449,
     "dailyMinutesDown": {
-      "2025-08-22": 61,
+      "2025-08-22": 915,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
