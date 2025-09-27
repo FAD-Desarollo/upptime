@@ -1,7 +1,7 @@
 url: https://crm.internal.aden.org/web
-status: down
-code: 502
-responseTime: 354
-lastUpdated: 2025-09-27T06:48:21.345Z
+status: up
+code: 200
+responseTime: 3493
+lastUpdated: 2025-09-27T06:58:35.637Z
 startTime: 2025-07-02T14:44:34.842Z
 generator: Upptime <https://github.com/upptime/upptime>
