@@ -30,18 +30,16 @@
     "slug": "acropolis",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
     "timeDay": 490,
     "timeWeek": 389,
     "timeMonth": 349,
     "timeYear": 284,
-    "dailyMinutesDown": {
-      "2025-09-30": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CRM Old",
@@ -60,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-01": 0,
+      "2025-10-01": 65,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
@@ -392,7 +390,7 @@
     "uptimeDay": "97.63%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "10.17%",
+    "uptimeYear": "10.18%",
     "time": 1431,
     "timeDay": 649,
     "timeWeek": 598,
